@@ -1,5 +1,9 @@
 *.pro.user
 *.pro.user.*
+.qtcreator/
+.qtc_clangd/
+debug/
+release/
 build/
 build-*/
 *.o
@@ -8,4 +12,5 @@ Makefile*
 *.Debug
 *.Release
 .qmake.stash
+ui_*.h
 .DS_Store
