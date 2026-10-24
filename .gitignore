@@ -1,0 +1,11 @@
+*.pro.user
+*.pro.user.*
+build/
+build-*/
+*.o
+*.obj
+Makefile*
+*.Debug
+*.Release
+.qmake.stash
+.DS_Store
